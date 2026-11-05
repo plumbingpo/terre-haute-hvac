@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://terrehautehvacco.com/sitemap.xml
